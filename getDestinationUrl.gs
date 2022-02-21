@@ -1,3 +1,5 @@
+// Get destination urls including redirects
+
 function getRedirects(url) {
   var params = {
     'followRedirects': false,
