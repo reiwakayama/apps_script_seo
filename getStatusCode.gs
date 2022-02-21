@@ -1,3 +1,5 @@
+// Get https server response status code
+
 function getStatusCode(url){
   var options = {
      'muteHttpExceptions': true,
