@@ -1,4 +1,4 @@
-// Get Japanese page title length (max recommended is 32)
+// SEO meta tag length checker
 
 function TITLE_LENGTH(text) {
   if (text == null) return 0;
